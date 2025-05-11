@@ -46,7 +46,7 @@ Some insights derived:
 
 ## 📂 Files in This Folder
 
-- `task1_notebook.ipynb` – Jupyter Notebook with code and analysis  
+- `project1.ipynb` – Jupyter Notebook with code and analysis  
 - `supply_chain_bigdata_rich.csv` – The dataset used  
 - `README.md` – This file  
 
