@@ -49,7 +49,7 @@ The dashboard includes:
 ## 📂 Files Included
 
 - `README.md` – This file
-- `student_dashboard.pbix` – Power BI file (not uploaded here)
+- `student_dashboard.pbix` – Power BI file 
 
 ---
 
