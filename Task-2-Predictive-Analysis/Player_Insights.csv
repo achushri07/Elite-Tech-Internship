@@ -1,0 +1,301 @@
+Match No,Opponent,Venue,Format,Runs,Balls Faced,Strike Rate,Fours,Sixes,Dismissal Type,Match Type,New Ball Faced,Pitch Type,Batting Position
+1,New Zealand,Hyderabad,ODI,30,70,80.0,0,2,Bowled,Day,Yes,Flat,3
+2,South Africa,Kolkata,ODI,100,103,47.57,6,2,Bowled,Day/Night,Yes,Seaming,3
+3,West Indies,Ahmedabad,T20I,60,50,134.0,4,3,Not Out,Day/Night,Yes,Flat,3
+4,Pakistan,Ahmedabad,ODI,40,89,51.69,8,6,Caught,Day,Yes,Dusty,3
+5,South Africa,Delhi,ODI,10,148,100.0,5,0,LBW,Day/Night,Yes,Flat,2
+6,Sri Lanka,Bangalore,T20I,10,33,181.82,6,2,Bowled,Day,No,Flat,4
+7,West Indies,Ahmedabad,T20I,0,51,123.53,1,5,Not Out,Day/Night,No,Dusty,4
+8,Australia,Bangalore,T20I,80,47,163.83,5,4,Caught,Day/Night,No,Flat,3
+9,New Zealand,Mumbai,T20I,50,23,86.96,4,2,Not Out,Day/Night,No,Dusty,4
+10,Australia,Bangalore,ODI,60,140,95.0,1,6,Run Out,Day/Night,Yes,Flat,3
+11,Sri Lanka,Mumbai,Test,0,137,35.77,10,6,Stumped,Day,Yes,Flat,2
+12,Bangladesh,Mumbai,ODI,110,119,87.39,1,6,Stumped,Day,Yes,Flat,3
+13,New Zealand,Chennai,ODI,70,93,47.31,2,3,Caught,Day/Night,Yes,Dusty,3
+14,South Africa,Chennai,T20I,20,36,97.22,5,1,Caught,Day,No,Seaming,2
+15,New Zealand,Kolkata,T20I,10,52,103.85,6,4,Caught,Day/Night,No,Dusty,3
+16,Sri Lanka,Kolkata,T20I,10,47,80.85,0,5,Not Out,Day,Yes,Flat,3
+17,Sri Lanka,Kolkata,T20I,20,49,177.55,1,4,Bowled,Day/Night,No,Flat,4
+18,Sri Lanka,Mumbai,T20I,40,30,120.0,4,1,Caught,Night,Yes,Flat,3
+19,New Zealand,Pune,Test,30,246,71.14,8,2,Caught,Day,Yes,Dusty,3
+20,West Indies,Delhi,Test,20,306,56.86,3,6,Stumped,Day,No,Seaming,3
+21,Bangladesh,Kolkata,ODI,50,117,56.41,14,3,LBW,Day,Yes,Seaming,2
+22,Australia,Delhi,T20I,10,38,165.79,7,5,LBW,Day,Yes,Green,3
+23,New Zealand,Pune,ODI,20,129,100.0,12,3,Bowled,Day/Night,No,Flat,4
+24,New Zealand,Ahmedabad,Test,30,205,44.39,1,5,Stumped,Day/Night,Yes,Seaming,3
+25,Pakistan,Hyderabad,ODI,30,127,66.14,5,3,Not Out,Day/Night,No,Dusty,3
+26,Sri Lanka,Kolkata,ODI,70,150,100.0,3,0,Run Out,Day/Night,Yes,Green,3
+27,Bangladesh,Chennai,T20I,10,16,206.25,5,4,Run Out,Day/Night,Yes,Flat,3
+28,South Africa,Mumbai,T20I,40,43,165.12,9,2,Not Out,Day/Night,Yes,Flat,3
+29,Pakistan,Hyderabad,ODI,40,143,79.72,9,6,LBW,Night,No,Dusty,2
+30,Sri Lanka,Mumbai,Test,0,134,5.22,0,0,Caught,Day,No,Green,3
+31,Pakistan,Mumbai,Test,50,145,12.41,1,2,Not Out,Day/Night,Yes,Dusty,2
+32,New Zealand,Delhi,Test,10,228,16.67,6,2,Caught,Day,Yes,Seaming,3
+33,West Indies,Pune,ODI,0,119,94.12,12,5,Bowled,Day/Night,No,Flat,4
+34,New Zealand,Kolkata,ODI,100,69,47.83,7,4,Bowled,Day,Yes,Green,3
+35,West Indies,Delhi,Test,110,199,4.02,1,0,Not Out,Day/Night,Yes,Flat,3
+36,Sri Lanka,Mumbai,ODI,70,145,97.24,7,4,Bowled,Day,Yes,Flat,3
+37,England,Ahmedabad,Test,20,277,71.84,5,0,Bowled,Night,No,Flat,3
+38,Australia,Chennai,ODI,0,99,88.89,1,0,Caught,Day,Yes,Green,3
+39,New Zealand,Chennai,T20I,50,24,66.67,3,2,Run Out,Day/Night,No,Flat,3
+40,Australia,Kolkata,ODI,30,118,92.37,12,1,Not Out,Day/Night,Yes,Dusty,3
+41,West Indies,Chennai,ODI,10,148,72.3,4,4,Bowled,Night,Yes,Seaming,3
+42,New Zealand,Ahmedabad,ODI,30,130,100.0,15,2,Bowled,Day,No,Flat,4
+43,Australia,Hyderabad,ODI,0,134,98.51,4,2,Stumped,Day,Yes,Green,3
+44,England,Bangalore,T20I,90,12,133.33,1,2,Not Out,Day/Night,No,Flat,4
+45,Pakistan,Ahmedabad,Test,20,223,87.44,7,1,Caught,Night,No,Green,4
+46,Pakistan,Delhi,ODI,50,74,68.92,8,0,Not Out,Day,No,Seaming,4
+47,Sri Lanka,Ahmedabad,ODI,20,148,97.97,9,6,Run Out,Day/Night,Yes,Flat,3
+48,New Zealand,Pune,Test,40,36,36.11,0,1,Bowled,Day/Night,Yes,Seaming,3
+49,Pakistan,Pune,T20I,40,36,105.56,6,6,LBW,Day/Night,No,Dusty,4
+50,Pakistan,Ahmedabad,Test,10,52,36.54,4,2,Bowled,Day,No,Seaming,2
+51,Pakistan,Kolkata,ODI,110,87,52.87,7,6,Caught,Day/Night,Yes,Seaming,3
+52,England,Kolkata,T20I,60,24,179.17,4,1,Not Out,Day,No,Green,4
+53,South Africa,Kolkata,ODI,100,117,86.32,10,1,LBW,Day,Yes,Dusty,2
+54,New Zealand,Pune,T20I,90,51,156.86,1,2,Bowled,Day,No,Flat,3
+55,South Africa,Chennai,ODI,40,141,84.4,2,4,Stumped,Day/Night,Yes,Seaming,3
+56,West Indies,Hyderabad,ODI,90,123,61.79,8,1,LBW,Day/Night,Yes,Flat,3
+57,South Africa,Pune,ODI,0,147,91.16,7,0,Bowled,Day,Yes,Flat,3
+58,Bangladesh,Chennai,ODI,10,150,84.0,1,0,Caught,Night,No,Flat,4
+59,South Africa,Chennai,ODI,0,103,100.0,4,2,Caught,Night,No,Dusty,3
+60,New Zealand,Ahmedabad,T20I,20,51,101.96,8,6,Not Out,Day,No,Dusty,3
+61,England,Pune,T20I,30,29,65.52,0,2,Caught,Night,Yes,Flat,3
+62,Bangladesh,Pune,Test,20,239,69.46,0,5,Caught,Day/Night,No,Flat,3
+63,Bangladesh,Mumbai,ODI,70,125,83.2,6,6,Not Out,Day/Night,Yes,Seaming,2
+64,South Africa,Mumbai,ODI,30,64,64.06,1,4,Not Out,Day/Night,Yes,Seaming,3
+65,Bangladesh,Pune,Test,20,286,36.36,13,4,Run Out,Day,No,Seaming,4
+66,South Africa,Bangalore,ODI,40,122,81.15,3,6,Caught,Day,Yes,Seaming,3
+67,South Africa,Hyderabad,Test,10,92,22.83,1,0,LBW,Day/Night,Yes,Flat,3
+68,England,Kolkata,T20I,70,37,191.89,9,3,Not Out,Night,No,Seaming,4
+69,New Zealand,Ahmedabad,T20I,0,47,70.21,2,4,LBW,Day/Night,No,Flat,4
+70,Sri Lanka,Chennai,T20I,120,59,108.47,8,3,Bowled,Day/Night,Yes,Dusty,3
+71,England,Ahmedabad,Test,60,89,59.55,4,2,Bowled,Day,No,Flat,4
+72,West Indies,Bangalore,ODI,10,101,63.37,9,1,Stumped,Day/Night,Yes,Seaming,3
+73,South Africa,Mumbai,ODI,0,65,78.46,4,3,Bowled,Day/Night,No,Green,4
+74,Pakistan,Bangalore,Test,70,174,35.63,5,1,Stumped,Day/Night,No,Flat,4
+75,Pakistan,Delhi,T20I,60,43,193.02,13,1,Not Out,Night,No,Dusty,3
+76,Bangladesh,Pune,ODI,60,100,75.0,8,4,Bowled,Day,No,Dusty,4
+77,Pakistan,Bangalore,ODI,60,133,96.99,7,4,Not Out,Day/Night,No,Flat,2
+78,West Indies,Mumbai,Test,0,284,67.96,2,5,Stumped,Day,Yes,Flat,3
+79,New Zealand,Chennai,ODI,30,97,60.82,9,0,Stumped,Day,No,Green,2
+80,Australia,Bangalore,ODI,10,118,61.86,13,0,LBW,Day/Night,Yes,Green,3
+81,Pakistan,Chennai,ODI,80,121,85.12,6,2,Stumped,Day,No,Green,4
+82,England,Mumbai,Test,50,220,34.09,14,4,Caught,Night,Yes,Flat,2
+83,New Zealand,Chennai,Test,20,133,72.18,0,6,Caught,Day,Yes,Seaming,3
+84,South Africa,Hyderabad,ODI,0,89,50.56,10,0,Stumped,Day,Yes,Flat,3
+85,Australia,Delhi,ODI,20,121,72.73,12,4,Bowled,Day/Night,Yes,Dusty,3
+86,England,Kolkata,ODI,20,67,68.66,8,0,Not Out,Day,Yes,Flat,3
+87,England,Hyderabad,T20I,60,49,85.71,3,1,Caught,Day/Night,No,Flat,4
+88,Bangladesh,Pune,T20I,50,24,70.83,1,0,Not Out,Day/Night,Yes,Flat,3
+89,South Africa,Hyderabad,T20I,80,33,193.94,7,2,Not Out,Day/Night,No,Green,4
+90,South Africa,Bangalore,Test,30,234,44.44,6,4,Bowled,Day,Yes,Flat,3
+91,West Indies,Kolkata,T20I,10,28,50.0,3,1,Not Out,Day/Night,Yes,Seaming,3
+92,West Indies,Hyderabad,T20I,60,53,92.45,11,3,Run Out,Day/Night,No,Dusty,3
+93,West Indies,Ahmedabad,ODI,60,130,69.23,6,4,Not Out,Day,Yes,Seaming,2
+94,Australia,Delhi,Test,40,317,47.0,10,0,Bowled,Day/Night,No,Dusty,4
+95,Pakistan,Pune,T20I,60,55,130.91,12,1,Bowled,Day,Yes,Flat,3
+96,West Indies,Kolkata,T20I,30,38,194.74,0,6,Run Out,Day,No,Seaming,4
+97,Sri Lanka,Pune,ODI,40,101,90.1,6,6,Not Out,Day,Yes,Seaming,3
+98,West Indies,Bangalore,Test,30,111,79.28,15,6,Caught,Day,Yes,Dusty,3
+99,Bangladesh,Delhi,T20I,0,21,85.71,1,3,LBW,Day/Night,Yes,Green,2
+100,Sri Lanka,Kolkata,T20I,10,26,119.23,4,1,Caught,Day,No,Seaming,2
+101,West Indies,Ahmedabad,ODI,0,89,67.42,0,2,LBW,Day/Night,No,Green,4
+102,New Zealand,Kolkata,Test,50,250,76.4,0,4,Stumped,Night,No,Seaming,3
+103,Bangladesh,Bangalore,ODI,20,120,70.83,12,0,Not Out,Day/Night,No,Seaming,3
+104,Bangladesh,Delhi,T20I,40,20,135.0,2,1,Run Out,Day/Night,No,Seaming,4
+105,Australia,Kolkata,T20I,90,40,142.5,12,5,Bowled,Day,Yes,Dusty,3
+106,South Africa,Pune,ODI,20,143,80.42,9,3,Not Out,Day/Night,Yes,Flat,3
+107,England,Bangalore,T20I,30,39,189.74,2,0,Bowled,Day,Yes,Flat,3
+108,Sri Lanka,Hyderabad,Test,60,115,18.26,1,0,LBW,Day/Night,Yes,Seaming,3
+109,Sri Lanka,Ahmedabad,T20I,20,54,100.0,4,3,Bowled,Day,Yes,Green,3
+110,South Africa,Hyderabad,T20I,0,38,173.68,12,4,LBW,Day/Night,Yes,Flat,3
+111,Sri Lanka,Mumbai,T20I,20,42,164.29,13,1,Bowled,Day/Night,No,Green,3
+112,South Africa,Kolkata,Test,10,219,51.14,0,0,Not Out,Day/Night,Yes,Seaming,3
+113,South Africa,Pune,T20I,90,48,164.58,14,5,Stumped,Day/Night,Yes,Flat,3
+114,West Indies,Ahmedabad,Test,70,236,50.0,14,6,Not Out,Day,Yes,Flat,3
+115,Bangladesh,Delhi,ODI,50,145,95.86,9,0,Caught,Day,Yes,Flat,2
+116,Sri Lanka,Kolkata,T20I,80,57,133.33,5,6,Bowled,Day/Night,Yes,Flat,2
+117,Bangladesh,Pune,ODI,70,126,75.4,12,1,Not Out,Day/Night,Yes,Dusty,3
+118,England,Delhi,ODI,10,124,70.16,12,6,Bowled,Day,No,Flat,4
+119,Sri Lanka,Ahmedabad,T20I,90,42,69.05,2,2,Caught,Night,Yes,Dusty,3
+120,Sri Lanka,Delhi,ODI,40,132,62.12,13,1,Bowled,Day/Night,Yes,Green,3
+121,England,Pune,ODI,70,86,61.63,0,4,LBW,Day,Yes,Dusty,2
+122,Sri Lanka,Bangalore,ODI,90,141,76.6,13,2,LBW,Day,Yes,Dusty,3
+123,Bangladesh,Delhi,T20I,20,59,111.86,10,6,Run Out,Day/Night,Yes,Flat,2
+124,South Africa,Chennai,T20I,10,20,180.0,7,6,Bowled,Day,No,Flat,4
+125,Pakistan,Chennai,Test,20,190,86.84,7,5,LBW,Night,Yes,Dusty,3
+126,South Africa,Pune,ODI,30,146,63.01,4,0,Stumped,Day/Night,Yes,Flat,2
+127,New Zealand,Pune,ODI,70,129,86.82,9,0,Caught,Day/Night,No,Flat,4
+128,South Africa,Pune,Test,80,246,67.07,9,2,Bowled,Day,Yes,Flat,3
+129,Sri Lanka,Kolkata,ODI,0,127,74.02,11,4,Caught,Day/Night,No,Flat,3
+130,Sri Lanka,Delhi,ODI,40,126,53.17,0,4,Not Out,Day/Night,Yes,Seaming,3
+131,South Africa,Chennai,ODI,30,99,78.79,9,0,Caught,Day,No,Dusty,4
+132,Pakistan,Mumbai,ODI,20,124,64.52,9,6,Caught,Day/Night,Yes,Dusty,3
+133,Pakistan,Pune,T20I,10,38,139.47,2,1,Not Out,Day/Night,No,Flat,3
+134,West Indies,Chennai,ODI,20,77,46.75,2,1,Caught,Day/Night,Yes,Flat,3
+135,Bangladesh,Bangalore,T20I,100,45,64.44,6,4,Not Out,Day,No,Flat,4
+136,Pakistan,Delhi,ODI,20,81,66.67,3,4,Caught,Day/Night,Yes,Flat,3
+137,England,Kolkata,ODI,40,141,99.29,1,1,Bowled,Day,No,Dusty,4
+138,West Indies,Bangalore,ODI,60,141,85.11,13,5,Bowled,Day/Night,Yes,Seaming,3
+139,West Indies,Chennai,ODI,30,82,41.46,3,5,Bowled,Day,Yes,Dusty,3
+140,Pakistan,Hyderabad,Test,110,223,45.74,7,5,LBW,Day/Night,Yes,Seaming,3
+141,West Indies,Chennai,T20I,110,18,161.11,5,2,Caught,Day,Yes,Flat,3
+142,Australia,Delhi,T20I,20,47,148.94,5,3,Bowled,Day,Yes,Seaming,2
+143,West Indies,Delhi,T20I,30,19,194.74,8,1,Bowled,Day,Yes,Dusty,2
+144,Bangladesh,Hyderabad,ODI,20,100,61.0,4,4,Run Out,Day/Night,No,Flat,4
+145,South Africa,Bangalore,ODI,20,129,61.24,15,3,Not Out,Day,Yes,Flat,2
+146,Sri Lanka,Bangalore,Test,0,194,33.51,1,1,Caught,Night,Yes,Dusty,3
+147,Pakistan,Bangalore,ODI,50,144,99.31,8,6,Bowled,Day/Night,Yes,Dusty,2
+148,England,Bangalore,ODI,40,75,44.0,5,4,Stumped,Day/Night,Yes,Flat,3
+149,South Africa,Ahmedabad,ODI,0,149,100.0,15,2,Caught,Day/Night,No,Dusty,4
+150,Pakistan,Chennai,Test,20,348,47.99,1,4,Bowled,Day,Yes,Flat,3
+151,England,Chennai,ODI,90,136,88.24,9,1,Caught,Day,No,Flat,3
+152,Bangladesh,Ahmedabad,ODI,20,150,82.0,13,3,Caught,Day/Night,Yes,Seaming,3
+153,Bangladesh,Pune,T20I,10,32,134.38,4,6,Caught,Day/Night,No,Flat,3
+154,South Africa,Mumbai,T20I,30,24,75.0,2,1,Stumped,Day/Night,No,Flat,3
+155,England,Pune,Test,120,264,56.82,4,0,Caught,Day,Yes,Flat,3
+156,Bangladesh,Mumbai,ODI,20,104,64.42,8,5,LBW,Day/Night,Yes,Flat,3
+157,Sri Lanka,Ahmedabad,Test,50,204,86.76,15,2,LBW,Day/Night,Yes,Green,3
+158,Bangladesh,Bangalore,ODI,60,145,92.41,0,6,Bowled,Day/Night,No,Seaming,3
+159,England,Ahmedabad,T20I,20,49,102.04,2,1,LBW,Day/Night,No,Dusty,3
+160,West Indies,Hyderabad,T20I,60,13,76.92,2,0,Caught,Day,Yes,Dusty,2
+161,Pakistan,Hyderabad,T20I,30,45,200.0,1,6,Not Out,Day,Yes,Dusty,3
+162,England,Chennai,ODI,50,107,50.47,11,1,Caught,Night,Yes,Seaming,3
+163,Sri Lanka,Pune,T20I,50,57,129.82,14,0,Not Out,Day/Night,Yes,Flat,2
+164,West Indies,Chennai,ODI,40,146,95.89,7,5,Caught,Day/Night,No,Seaming,4
+165,Bangladesh,Hyderabad,ODI,0,130,73.85,8,6,Not Out,Night,No,Dusty,4
+166,Pakistan,Ahmedabad,ODI,70,123,66.67,5,1,Bowled,Day,Yes,Seaming,3
+167,New Zealand,Mumbai,T20I,20,28,182.14,7,1,Not Out,Day,No,Seaming,4
+168,West Indies,Mumbai,Test,10,262,72.14,6,2,Bowled,Day/Night,Yes,Flat,3
+169,Sri Lanka,Chennai,ODI,0,135,97.04,7,0,Not Out,Day/Night,Yes,Dusty,3
+170,Bangladesh,Kolkata,ODI,40,128,58.59,10,5,Not Out,Night,No,Seaming,3
+171,England,Hyderabad,ODI,50,92,44.57,6,2,Bowled,Day,Yes,Green,3
+172,West Indies,Bangalore,T20I,0,59,122.03,13,3,Bowled,Night,Yes,Seaming,3
+173,West Indies,Ahmedabad,ODI,40,103,80.58,0,5,Not Out,Day,Yes,Seaming,2
+174,Pakistan,Delhi,ODI,20,75,57.33,7,2,Caught,Day/Night,No,Seaming,3
+175,West Indies,Ahmedabad,Test,50,316,39.56,10,4,Bowled,Day,No,Seaming,3
+176,New Zealand,Pune,T20I,10,54,131.48,14,1,Bowled,Day,Yes,Seaming,3
+177,Bangladesh,Kolkata,T20I,50,18,105.56,4,1,Not Out,Night,No,Seaming,4
+178,Pakistan,Chennai,ODI,30,134,72.39,4,1,Not Out,Day/Night,Yes,Dusty,2
+179,Bangladesh,Bangalore,Test,100,330,43.03,14,3,Not Out,Day,No,Green,3
+180,West Indies,Pune,ODI,10,137,82.48,6,3,Caught,Day/Night,Yes,Green,3
+181,Bangladesh,Delhi,ODI,20,128,92.97,1,5,Run Out,Day/Night,No,Flat,4
+182,West Indies,Bangalore,ODI,10,100,59.0,4,2,LBW,Night,Yes,Dusty,3
+183,Australia,Mumbai,T20I,90,52,167.31,4,4,Not Out,Day,Yes,Green,3
+184,Bangladesh,Pune,T20I,80,54,140.74,9,2,Not Out,Day/Night,Yes,Seaming,2
+185,Bangladesh,Mumbai,ODI,20,98,44.9,8,2,Stumped,Day,Yes,Dusty,3
+186,New Zealand,Bangalore,ODI,50,140,80.71,2,0,LBW,Day,Yes,Flat,3
+187,West Indies,Kolkata,ODI,70,96,88.54,7,3,Not Out,Day/Night,Yes,Dusty,3
+188,Sri Lanka,Ahmedabad,T20I,40,42,173.81,10,0,Caught,Night,No,Seaming,4
+189,England,Hyderabad,T20I,40,38,157.89,2,5,Bowled,Day/Night,Yes,Dusty,2
+190,New Zealand,Chennai,ODI,20,111,91.89,9,0,Not Out,Day/Night,No,Seaming,4
+191,Australia,Delhi,ODI,0,113,93.81,7,3,Bowled,Day/Night,Yes,Dusty,3
+192,Bangladesh,Pune,ODI,90,134,96.27,14,5,Bowled,Day/Night,No,Flat,2
+193,South Africa,Pune,ODI,90,143,95.8,13,1,Run Out,Day/Night,No,Dusty,3
+194,New Zealand,Hyderabad,ODI,50,149,65.1,15,6,Caught,Day,Yes,Dusty,3
+195,South Africa,Hyderabad,ODI,20,146,94.52,1,0,LBW,Day,No,Flat,4
+196,West Indies,Hyderabad,ODI,20,122,66.39,1,3,Caught,Night,No,Dusty,4
+197,New Zealand,Kolkata,T20I,60,36,66.67,2,1,Run Out,Day,Yes,Dusty,3
+198,New Zealand,Chennai,T20I,90,49,177.55,0,2,Run Out,Day/Night,No,Flat,3
+199,Australia,Pune,T20I,80,50,162.0,11,4,Bowled,Day,Yes,Seaming,3
+200,South Africa,Delhi,Test,60,208,11.54,2,1,Not Out,Day,Yes,Dusty,3
+201,West Indies,Pune,Test,50,209,81.34,7,3,Caught,Day,No,Flat,3
+202,New Zealand,Chennai,ODI,0,72,75.0,4,5,LBW,Day,Yes,Dusty,3
+203,Pakistan,Chennai,ODI,10,107,47.66,9,5,Caught,Day/Night,No,Flat,4
+204,Bangladesh,Pune,T20I,90,43,165.12,15,2,LBW,Day/Night,Yes,Seaming,3
+205,Bangladesh,Delhi,ODI,50,149,91.95,13,4,Caught,Day,No,Flat,4
+206,Australia,Kolkata,ODI,0,113,84.07,13,5,Bowled,Day/Night,Yes,Green,3
+207,South Africa,Ahmedabad,T20I,10,45,120.0,1,3,Bowled,Day/Night,No,Flat,4
+208,West Indies,Mumbai,ODI,50,150,100.0,14,1,Bowled,Day/Night,Yes,Seaming,3
+209,Sri Lanka,Delhi,ODI,0,145,71.03,9,4,LBW,Day,No,Dusty,4
+210,Sri Lanka,Chennai,ODI,10,146,76.03,2,2,Caught,Day,Yes,Seaming,3
+211,Pakistan,Hyderabad,ODI,40,144,90.28,10,4,Caught,Day/Night,No,Seaming,3
+212,New Zealand,Chennai,T20I,50,50,110.0,2,1,Run Out,Day/Night,No,Flat,4
+213,Sri Lanka,Ahmedabad,ODI,50,132,59.09,15,2,Caught,Day/Night,Yes,Flat,3
+214,Pakistan,Kolkata,ODI,20,126,80.95,9,5,Run Out,Day,Yes,Green,2
+215,South Africa,Chennai,ODI,60,122,100.0,1,2,Stumped,Day/Night,No,Flat,4
+216,West Indies,Chennai,T20I,20,41,168.29,3,3,Run Out,Day/Night,Yes,Flat,3
+217,Sri Lanka,Kolkata,Test,20,204,47.55,14,1,Run Out,Day,No,Green,4
+218,South Africa,Bangalore,T20I,60,55,158.18,1,2,Stumped,Day/Night,No,Green,4
+219,Australia,Delhi,Test,50,279,51.97,7,5,Not Out,Day/Night,No,Flat,4
+220,England,Hyderabad,ODI,80,97,71.13,12,1,Caught,Day/Night,Yes,Dusty,2
+221,England,Delhi,Test,50,240,65.0,8,1,Caught,Day/Night,No,Green,3
+222,New Zealand,Ahmedabad,ODI,40,83,61.45,0,2,Run Out,Day,Yes,Dusty,2
+223,New Zealand,Ahmedabad,ODI,0,148,95.27,8,4,Not Out,Night,Yes,Flat,3
+224,West Indies,Kolkata,T20I,30,29,155.17,5,3,Bowled,Day,No,Seaming,4
+225,England,Mumbai,T20I,20,49,151.02,3,2,Run Out,Night,Yes,Seaming,2
+226,England,Pune,T20I,20,22,72.73,3,1,Not Out,Day,No,Seaming,4
+227,Bangladesh,Hyderabad,ODI,110,133,81.2,10,4,Bowled,Day/Night,No,Seaming,3
+228,England,Bangalore,ODI,30,115,75.65,2,6,Caught,Day,Yes,Flat,3
+229,Bangladesh,Mumbai,Test,90,226,78.32,13,4,Run Out,Night,Yes,Flat,3
+230,New Zealand,Pune,T20I,50,59,110.17,3,1,Run Out,Day/Night,No,Flat,4
+231,New Zealand,Mumbai,ODI,70,135,91.85,5,5,Caught,Night,Yes,Flat,3
+232,West Indies,Ahmedabad,ODI,40,83,66.27,1,5,Bowled,Day/Night,Yes,Dusty,2
+233,South Africa,Chennai,ODI,40,63,92.06,14,5,Caught,Day/Night,Yes,Dusty,3
+234,Pakistan,Kolkata,Test,30,225,19.56,9,4,Bowled,Day,Yes,Flat,3
+235,West Indies,Ahmedabad,Test,10,201,62.19,2,2,Caught,Day,No,Flat,3
+236,South Africa,Hyderabad,T20I,60,40,75.0,3,1,Bowled,Day,No,Dusty,4
+237,Sri Lanka,Bangalore,ODI,20,67,62.69,9,0,Bowled,Day,Yes,Flat,2
+238,West Indies,Hyderabad,ODI,0,142,71.83,1,1,Not Out,Day,Yes,Flat,2
+239,Pakistan,Bangalore,ODI,50,124,62.1,8,4,Not Out,Day,Yes,Seaming,2
+240,Pakistan,Delhi,ODI,10,65,70.77,11,1,Bowled,Day/Night,Yes,Flat,3
+241,West Indies,Mumbai,Test,100,74,70.27,6,4,Stumped,Day,No,Dusty,4
+242,Australia,Delhi,ODI,100,129,65.89,4,6,LBW,Day/Night,No,Seaming,4
+243,Bangladesh,Delhi,T20I,90,37,135.14,5,2,Stumped,Day,No,Seaming,4
+244,New Zealand,Ahmedabad,ODI,30,100,87.0,14,3,Caught,Day/Night,Yes,Green,3
+245,Sri Lanka,Delhi,ODI,0,89,59.55,7,0,Caught,Day/Night,Yes,Flat,2
+246,South Africa,Ahmedabad,ODI,90,63,88.89,9,3,Not Out,Day,No,Seaming,3
+247,New Zealand,Kolkata,ODI,30,66,50.0,3,2,LBW,Day/Night,Yes,Dusty,3
+248,Australia,Hyderabad,Test,110,259,25.87,10,3,Not Out,Day/Night,No,Dusty,4
+249,Sri Lanka,Ahmedabad,T20I,110,30,96.67,4,1,Bowled,Day,Yes,Flat,3
+250,Australia,Mumbai,Test,80,298,43.29,2,3,LBW,Day/Night,Yes,Seaming,3
+251,West Indies,Hyderabad,T20I,20,38,186.84,6,6,Caught,Day,No,Flat,3
+252,Sri Lanka,Pune,T20I,30,35,111.43,9,6,Caught,Day,Yes,Dusty,2
+253,Pakistan,Delhi,Test,80,123,9.76,3,1,Not Out,Day/Night,Yes,Flat,3
+254,Pakistan,Ahmedabad,ODI,20,105,85.71,11,1,Not Out,Day/Night,Yes,Dusty,3
+255,England,Hyderabad,T20I,10,54,148.15,10,1,LBW,Night,Yes,Flat,3
+256,Sri Lanka,Pune,ODI,40,145,95.17,0,0,LBW,Day/Night,Yes,Flat,3
+257,Sri Lanka,Delhi,ODI,100,145,93.1,12,4,Bowled,Day/Night,Yes,Dusty,3
+258,Pakistan,Kolkata,T20I,50,22,136.36,0,5,Run Out,Night,No,Dusty,4
+259,Bangladesh,Delhi,Test,40,302,62.58,8,6,Caught,Day/Night,Yes,Green,3
+260,Bangladesh,Bangalore,ODI,0,111,51.35,2,1,LBW,Day,Yes,Flat,3
+261,West Indies,Ahmedabad,T20I,50,45,75.56,6,1,LBW,Day/Night,Yes,Seaming,2
+262,England,Hyderabad,Test,130,331,49.85,12,6,LBW,Day,Yes,Flat,3
+263,Bangladesh,Ahmedabad,ODI,10,144,90.97,14,4,Caught,Day,Yes,Dusty,3
+264,West Indies,Kolkata,ODI,40,90,96.67,5,3,LBW,Day,Yes,Flat,3
+265,Australia,Mumbai,ODI,80,107,54.21,2,1,Not Out,Day,Yes,Seaming,3
+266,West Indies,Chennai,ODI,60,129,54.26,9,2,Not Out,Day/Night,Yes,Seaming,3
+267,Sri Lanka,Bangalore,T20I,50,47,159.57,15,0,Not Out,Day/Night,Yes,Flat,3
+268,Sri Lanka,Ahmedabad,ODI,60,149,75.84,4,0,Not Out,Day,Yes,Flat,3
+269,Australia,Bangalore,Test,30,360,45.28,8,4,Bowled,Day,Yes,Dusty,3
+270,Sri Lanka,Hyderabad,ODI,20,150,91.33,12,1,Not Out,Day,Yes,Seaming,2
+271,Pakistan,Delhi,ODI,70,125,84.0,9,2,Caught,Day,No,Dusty,4
+272,Bangladesh,Ahmedabad,T20I,70,54,159.26,11,5,LBW,Day,No,Dusty,2
+273,Australia,Bangalore,T20I,80,40,185.0,12,0,LBW,Day/Night,Yes,Seaming,3
+274,Sri Lanka,Pune,ODI,90,144,96.53,12,5,Caught,Day,No,Seaming,2
+275,New Zealand,Bangalore,T20I,40,60,123.33,6,5,LBW,Night,No,Flat,4
+276,Sri Lanka,Ahmedabad,T20I,40,54,150.0,11,1,Caught,Day/Night,Yes,Flat,3
+277,Bangladesh,Pune,T20I,70,28,192.86,13,6,LBW,Day,Yes,Seaming,3
+278,Australia,Delhi,T20I,50,52,140.38,9,3,LBW,Night,Yes,Dusty,3
+279,England,Kolkata,ODI,60,99,91.92,4,6,Bowled,Day/Night,No,Flat,4
+280,Australia,Pune,T20I,70,60,136.67,11,0,Run Out,Day/Night,Yes,Dusty,2
+281,New Zealand,Hyderabad,T20I,90,56,96.43,5,2,Not Out,Day/Night,Yes,Dusty,2
+282,New Zealand,Pune,T20I,20,39,89.74,5,0,Caught,Day/Night,No,Seaming,3
+283,West Indies,Hyderabad,ODI,30,117,54.7,11,1,LBW,Day/Night,No,Seaming,3
+284,Australia,Pune,ODI,0,135,79.26,7,2,LBW,Day,Yes,Flat,2
+285,Pakistan,Bangalore,ODI,40,137,94.89,10,6,Caught,Day/Night,Yes,Seaming,2
+286,Australia,Delhi,T20I,0,48,177.08,8,6,Bowled,Day,No,Dusty,4
+287,New Zealand,Ahmedabad,Test,30,296,61.49,15,3,Not Out,Day/Night,No,Seaming,4
+288,England,Ahmedabad,Test,40,233,42.92,12,5,Bowled,Day/Night,Yes,Dusty,3
+289,Sri Lanka,Bangalore,ODI,20,80,47.5,3,6,Caught,Day/Night,Yes,Flat,3
+290,Australia,Mumbai,T20I,40,53,164.15,13,4,Bowled,Day,Yes,Dusty,2
+291,West Indies,Delhi,ODI,0,79,62.03,11,1,LBW,Day/Night,Yes,Flat,3
+292,England,Ahmedabad,ODI,0,128,93.75,0,1,Not Out,Day/Night,Yes,Flat,3
+293,Sri Lanka,Delhi,ODI,70,114,66.67,14,2,LBW,Day/Night,Yes,Seaming,3
+294,Pakistan,Ahmedabad,ODI,30,97,43.3,10,0,Bowled,Day,Yes,Dusty,3
+295,Pakistan,Hyderabad,ODI,10,91,73.63,15,0,Run Out,Day/Night,Yes,Green,3
+296,Sri Lanka,Ahmedabad,Test,40,289,41.87,4,5,Run Out,Day/Night,Yes,Flat,3
+297,West Indies,Mumbai,T20I,60,40,100.0,7,5,Caught,Day,Yes,Green,3
+298,Pakistan,Pune,ODI,20,150,96.67,7,6,Caught,Day/Night,No,Dusty,3
+299,England,Ahmedabad,T20I,50,22,172.73,4,0,Caught,Day/Night,No,Dusty,4
+300,Sri Lanka,Pune,ODI,0,75,98.67,6,3,LBW,Day/Night,Yes,Flat,3
