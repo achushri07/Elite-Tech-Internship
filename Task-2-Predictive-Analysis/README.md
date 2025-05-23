@@ -16,6 +16,8 @@ This is a Flask-based web application that predicts the number of runs a cricket
 
 ---
 
+## 📸 Screenshot
+![image](https://github.com/user-attachments/assets/9fe27cb5-f913-4a13-b02d-4cf4a324c4e3)
 
 ---
 
@@ -30,7 +32,7 @@ This is a Flask-based web application that predicts the number of runs a cricket
 
 ## 📊 Model Training (Summary)
 
-- Dataset: 500+ synthetic yet realistic player records
+- Dataset: 300 synthetic yet realistic player records
 - Features used:
   - Match Format, Venue, Opposition, Pitch Type, Toss Decision, Innings, Match Time
 - Target: Runs scored
