@@ -16,40 +16,44 @@ This is a Flask-based web application that predicts the number of runs a cricket
 
 ---
 
-## 📋 Dashboard Insights
-
-The dashboard includes:
-- **Age filter** and **Gender slicer** for user-driven interactivity
-- KPIs showing:
-  - Average attendance %
-  - Most frequent diet quality
-  - Average sleep hours
-  - Maximum marks scored
-
-### 📊 Visuals Displayed
-- **Parental Education Count** – Horizontal bar chart
-- **Exercise vs Sleep** – Line graph
-- **Attendance Distribution** – Donut chart by attendance category
-- **Gender Ratio** – Pie chart
-- **Time Spent by Gender** – Bar graph comparing study and social media time
 
 ---
 
-## 💡 Key Findings
+## 🧠 How It Works
 
-- Students whose parents had **high school or bachelor’s education** were the majority.
-- Most students had **poor diet quality** and **average sleep below 7 hours**.
-- Only a small portion achieved **more than 90% attendance**.
-- There was a near-balanced **gender ratio** in the dataset.
-- **Males spent slightly more time on social media** than females on average.
+1. The user selects match inputs via a form (format, pitch, opponent, etc.).
+2. The data is processed and passed to a trained Random Forest model.
+3. The model returns a predicted number of runs.
+4. The prediction is displayed on the same page in real time.
 
 ---
 
-## 📂 Files Included
+## 📊 Model Training (Summary)
 
-- `student_dashboard.pbix` – Power BI file (not uploaded here)
-- `dashboard_screenshot.png` – Visual preview of the dashboard
-- `README.md` – This file
+- Dataset: 500+ synthetic yet realistic player records
+- Features used:
+  - Match Format, Venue, Opposition, Pitch Type, Toss Decision, Innings, Match Time
+- Target: Runs scored
+- Model: `RandomForestRegressor(n_estimators=100, random_state=42)`
+- Evaluation: Trained for variability (low runs on green pitches, high on flat pitches, etc.)
+
+---
+
+## 🛠️ Setup Instructions
+
+# Clone the repository
+git clone https://github.com/yourusername/cricket-run-predictor.git
+cd cricket-run-predictor
+
+# Create virtual environment
+python -m venv env
+source env/bin/activate     # On Windows use: env\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the application
+python app.py
 
 ---
 
