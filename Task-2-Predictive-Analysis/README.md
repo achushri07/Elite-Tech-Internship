@@ -41,24 +41,6 @@ This is a Flask-based web application that predicts the number of runs a cricket
 
 ---
 
-# 🛠️ Setup Instructions
-
-## Clone the repository
-git clone https://github.com/yourusername/cricket-run-predictor.git
-cd cricket-run-predictor
-
-## Create virtual environment
-python -m venv env
-source env/bin/activate     # On Windows use: env\Scripts\activate
-
-## Install dependencies
-pip install -r requirements.txt
-
-## Run the application
-python app.py
-
----
-
 ## 📂 Files Included
 
 - `README.md` – This file
