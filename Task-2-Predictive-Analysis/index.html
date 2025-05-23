@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Cricket Run Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        body {
+            background-image: url("{{ url_for('static', filename='bg2.png') }}");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-attachment: fixed;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+
+        <!-- 📘 About Project Section -->
+        <!-- <div class="about-section">
+            <h2>📘 About Project</h2>
+            <p>This Run Prediction App uses a trained ML model to estimate how many runs a cricketer might score, based
+                on match details and player performance.</p>
+
+            <h3>🔧 Built with:</h3>
+            <ul>
+                <li>Python</li>
+                <li>Flask</li>
+                <li>ML algo - Random Forest</li>
+                <li>HTML & CSS</li>
+            </ul>
+
+            <p><strong>🛠 Developed by:</strong> Achintya Srivastawa</p>
+        </div> -->
+
+        <!-- 📝 Form Section -->
+        <div class="form-section">
+            <h1 id="page-title">🏏Cricketer's Run Predictor</h1>
+            <form action="/predict" method="POST">
+                <label>Opposition:</label>
+                <select name="Opponent">
+                    <option value="Australia">Australia</option>
+                    <option value="New Zealand">New Zealand</option>
+                    <option value="South Africa">South Africa</option>
+                    <option value="West Indies">West Indies</option>
+                    <option value="Pakistan">Pakistan</option>
+                    <option value="Sri Lanka">Sri Lanka</option>
+                    <option value="Bangladesh">England</option>
+                </select>
+
+                <label>Venue:</label>
+                <select name="Venue">
+                    <option value="Ahmedabad">Ahmedabad</option>
+                    <option value="Bangalore">Bangalore</option>
+                    <option value="Chennai">Chennai</option>
+                    <option value="Delhi">Delhi</option>
+                    <option value="Hyderabad">Hyderabad</option>
+                    <option value="Kolkata">Kolkata</option>
+                    <option value="Mumbai">Mumbai</option>
+                    <option value="Pune">Pune</option>
+                </select>
+
+                <!-- Format Radios -->
+                <label>Format:</label>
+                <div class="radio-group">
+                    <input type="radio" id="test" name="Format" value="Test" required>
+                    <label for="test">Test</label>
+
+                    <input type="radio" id="odi" name="Format" value="ODI" required>
+                    <label for="odi">ODI</label>
+
+                    <input type="radio" id="t20i" name="Format" value="T20I" required>
+                    <label for="t20i">T20I</label>
+                </div>
+
+                <!-- Match Type Dropdown -->
+                <label for="match_type">Match Type:</label>
+                <select id="match_type" name="Match_Type" required>
+                    <option value="Day">Day</option>
+                    <option value="Day/Night">Day/Night</option>
+                    <option value="Night">Night</option>
+                </select>
+
+
+                <label>New Ball Faced:</label>
+                <select name="New_Ball_Faced">
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+
+                <label>Pitch Type:</label>
+                <select name="Pitch_Type">
+                    <option value="Green">Green</option>
+                    <option value="Dusty">Dusty</option>
+                    <option value="Flat">Flat</option>
+                    <option value="Seaming">Seaming</option>
+                </select>
+
+                <label>Batting Position:</label>
+                <input type="number" name="Batting_Position" min="1" max="7" required>
+
+                <button type="submit">Predict Runs</button>
+            </form>
+
+            <!-- Modal Box -->
+            <div id="resultModal" class="modal">
+                <div class="modal-content">
+                    <h2>🏏 Predicted Runs</h2>
+                    <p id="predictionValue">{{ prediction }}</p>
+                    <button onclick="closeModal()">Close</button>
+                </div>
+            </div>
+
+            <script>
+                function closeModal() {
+                    document.getElementById("resultModal").style.display = "none";
+                }
+
+                // Show modal only if prediction is available
+                window.onload = function () {
+                    const predValue = document.getElementById("predictionValue").innerText;
+                    if (predValue && predValue.trim() !== "") {
+                        document.getElementById("resultModal").style.display = "block";
+                    }
+                };
+            </script>
+
+            <script>
+                document.addEventListener("DOMContentLoaded", function () {
+                    const matchTypeSelect = document.getElementById("match_type");
+                    const formatRadios = document.getElementsByName("Format");
+
+                    function updateMatchTypeOptions(selectedFormat) {
+                        const selectedMatchType = matchTypeSelect.value;
+
+                        // Clear current options
+                        matchTypeSelect.innerHTML = "";
+
+                        // Always include Day
+                        const dayOption = document.createElement("option");
+                        dayOption.value = "Day";
+                        dayOption.text = "Day";
+                        matchTypeSelect.appendChild(dayOption);
+                        const dayOption2 = document.createElement("option");
+                        dayOption2.value = "Day/Night";
+                        dayOption2.text = "Day/Night";
+                        matchTypeSelect.appendChild(dayOption2);
+
+                        // Include Night only if format is not Test
+                        if (selectedFormat !== "Test") {
+                            const nightOption = document.createElement("option");
+                            nightOption.value = "Night";
+                            nightOption.text = "Night";
+                            matchTypeSelect.appendChild(nightOption);
+                        }
+
+                        // Reset selection if current is invalid
+                        if (selectedFormat === "Test" && selectedMatchType === "Night") {
+                            matchTypeSelect.value = "Day";
+                        } else {
+                            matchTypeSelect.value = selectedMatchType;
+                        }
+                    }
+
+                    // Add change listeners to all format radio buttons
+                    formatRadios.forEach(radio => {
+                        radio.addEventListener("change", () => {
+                            updateMatchTypeOptions(radio.value);
+                        });
+
+                        // Initialize if already checked on page load
+                        if (radio.checked) {
+                            updateMatchTypeOptions(radio.value);
+                        }
+                    });
+                });
+            </script>
+
+
+        </div>
+    </div>
+
+</body>
+
+</html>
