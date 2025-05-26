@@ -4,6 +4,12 @@ This project is part of the Elite Tech Intern **Data Analytics Internship**. The
 
 ---
 
+📸 Screenshot
+![image](https://github.com/user-attachments/assets/9bedc2e0-b2c2-4142-ba23-e13322e031e9)
+
+
+---
+
 ## 📁 Dataset
 
 - **Name**: Supply Chain Big Data (synthetically generated)
