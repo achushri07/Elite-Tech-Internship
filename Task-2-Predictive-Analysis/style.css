@@ -1,6 +1,6 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-image: url("{{ url_for('static', filename='bg2.jpg') }}");
+    background-image: url("{{ url_for('static', filename='bg2.png') }}");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -122,4 +122,5 @@ button:hover {
     font-weight: bold;
     text-align: center;
     margin-bottom: 20px;
+
 }
