@@ -1,11 +1,11 @@
-# 🏏 Task 2 – Predictive Analysis using Machine Learning
+# Task 2 – Predictive Analysis using Machine Learning
 
 This project is part of the Elite Tech Intern **Data Analytics Internship**. The goal was to build a Machine Learning model to predict outcomes based on the dataset.
 This is a Flask-based web application that predicts the number of runs a cricketer might score based on various match conditions like venue, opponent, pitch type, toss decision, and more. The prediction is powered by a trained **Random Forest Regressor** model.
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - **Python**
 - **Flask**
@@ -16,12 +16,12 @@ This is a Flask-based web application that predicts the number of runs a cricket
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 ![image](https://github.com/user-attachments/assets/9fe27cb5-f913-4a13-b02d-4cf4a324c4e3)
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. The user selects match inputs via a form (format, pitch, opponent, etc.).
 2. The data is processed and passed to a trained Random Forest model.
@@ -30,7 +30,7 @@ This is a Flask-based web application that predicts the number of runs a cricket
 
 ---
 
-## 📊 Model Training (Summary)
+## Model Training (Summary)
 
 - Dataset: 300 synthetic yet realistic player records
 - Features used:
@@ -41,7 +41,7 @@ This is a Flask-based web application that predicts the number of runs a cricket
 
 ---
 
-## 📂 Files Included
+## Files Included
 
 - `README.md` – This file
 - `Player_Insights.csv` – The dataset used
@@ -52,6 +52,6 @@ This is a Flask-based web application that predicts the number of runs a cricket
 
 ---
 
-## ✅ Status
+## Status
 
-✅ Task completed and ready for evaluation.
+Task completed and ready for evaluation.
