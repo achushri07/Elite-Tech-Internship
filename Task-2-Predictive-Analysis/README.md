@@ -47,8 +47,8 @@ This is a Flask-based web application that predicts the number of runs a cricket
 - `Player_Insights.csv` – The dataset used
 - `model.ipynb` – Python Notebook for model training
 - `app.py` – Python File for flask
-- `index.html` – HTML file
-- `style.css` – CSS file
+- `templates/index.html` – HTML file
+- `static/style.css` – CSS file
 
 ---
 
