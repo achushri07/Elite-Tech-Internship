@@ -1,16 +1,16 @@
-# 🧠 Task 1 – Big Data Analysis
+# Task 1 – Big Data Analysis
 
 This project is part of the Elite Tech Intern **Data Analytics Internship**. The goal of this task is to perform data analysis on a large dataset using scalable tools suitable for big data processing. I used **Dask**, a parallel computing library in Python, to work efficiently with large data.
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 ![image](https://github.com/user-attachments/assets/9bedc2e0-b2c2-4142-ba23-e13322e031e9)
 
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - **Name**: Supply Chain Big Data (synthetically generated)
 - **Size**: 100,000+ rows, 15 columns
@@ -19,16 +19,16 @@ This project is part of the Elite Tech Intern **Data Analytics Internship**. The
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
-- Python 🐍  
+- Python 
 - [Dask](https://www.dask.org/) – for scalable dataframe operations  
 - Jupyter Notebook – for writing and executing code  
 - GitHub – for version control and project delivery
 
 ---
 
-## 🔍 Key Analyses Performed
+## Key Analyses Performed
 
 - Total revenue by product category  
 - Average shipping cost by region  
@@ -40,7 +40,7 @@ This project is part of the Elite Tech Intern **Data Analytics Internship**. The
 
 ---
 
-## 📌 Results
+## Results
 
 Some insights derived:
 - **Electronics** generated the highest total revenue.
@@ -50,7 +50,7 @@ Some insights derived:
 
 ---
 
-## 📂 Files in This Folder
+## Files in This Folder
 
 - `supply_chain_analysis.ipynb` – Jupyter Notebook with code and analysis  
 - `supply_chain_data.csv` – The dataset used  
@@ -58,7 +58,6 @@ Some insights derived:
 
 ---
 
-## ✅ Status
+## Status
 
-✅ Task Completed and ready for review/feedback.
-
+Task Completed and ready for review/feedback.
