@@ -1,10 +1,10 @@
-# 📊 Task 3 – Dashboard Development
+# Task 3 – Dashboard Development
 
 This project is part of the Elite Tech Intern **Data Analytics Internship**. The goal was to create an **interactive dashboard** that visualizes relationships between student lifestyle habits and their academic performance.
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Power BI** – for building and visualizing the dashboard
 - **DAX** – used for calculated fields and metrics
@@ -12,7 +12,7 @@ This project is part of the Elite Tech Intern **Data Analytics Internship**. The
 
 ---
 
-## 📋 Dashboard Insights
+## Dashboard Insights
 
 The dashboard includes:
 - **Age filter** and **Gender slicer** for user-driven interactivity
@@ -22,7 +22,7 @@ The dashboard includes:
   - Average sleep hours
   - Maximum marks scored
 
-### 📊 Visuals Displayed
+### Visuals Displayed
 - **Parental Education Count** – Horizontal bar chart
 - **Exercise vs Sleep** – Line graph
 - **Attendance Distribution** – Donut chart by attendance category
@@ -31,7 +31,7 @@ The dashboard includes:
 
 ---
 
-## 💡 Key Findings
+## Key Findings
 
 - Students whose parents had **high school or bachelor’s education** were the majority.
 - Most students had **poor diet quality** and **average sleep below 7 hours**.
@@ -41,18 +41,18 @@ The dashboard includes:
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 ![image](https://github.com/user-attachments/assets/ab2481e0-fda6-4216-b666-5f7811e97e36)
 
 ---
 
-## 📂 Files Included
+## Files Included
 
 - `README.md` – This file
 - `Academics Analysis.pbix` – Power BI file 
 
 ---
 
-## ✅ Status
+## Status
 
-✅ Task completed and ready for evaluation.
+Task completed and ready for evaluation.
